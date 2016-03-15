@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Foundation for Sites
+title: Your awesome title
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -20,6 +20,7 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 
-# Assets are being handled by Gulp
-exclude: [assets]
-keep_files: [assets]
+sass:
+  sass_dir: _sass
+  style: compressed
+
