@@ -1,0 +1,11 @@
+- link: Home
+  url: /
+
+- link: Journal
+  url: /journal
+
+- link: Sample Page
+  url: /samplepage
+
+- link: Kitchen Sink
+  url: /kitchen-sink
